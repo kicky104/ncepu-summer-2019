@@ -1,0 +1,21 @@
+今天大家自学下面几个集成和提升算法
+
+集成算法Bagging
+1、大杀器：Random Forest
+
+提升算法
+1、AdaBoost
+2、GBDT
+3、大杀器：XGBoost
+
+要求：
+1、自行检索相关博客，学习算法思想；
+2、学习如何在sklearn中使用以上方法，11里面有相关代码和数据；
+3、将以上算法应用到iris、wine以及MNIST上，看看效果是否有提升。
+4、继续对SVM调参并在MNIST数据集上进行预测，参见我上传的代码。
+
+
+例如，相关博客：
+https://blog.csdn.net/moledyzhang/article/details/79498520
+https://blog.csdn.net/luanpeng825485697/article/details/79383492
+https://blog.csdn.net/sinat_22594309/article/details/60957594
